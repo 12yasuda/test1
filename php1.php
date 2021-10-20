@@ -1,6 +1,6 @@
 <?php
     $a="Hello";
-    $b="world";
+    $b="worlds";
     echo "$a, $b";
    var_dump($a&&$b);
    
